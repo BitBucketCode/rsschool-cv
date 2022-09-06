@@ -54,7 +54,7 @@ I have knowledge of:
 * **Node JS** 
 * **PyCharm, WebStorm, VS Code** 
 * **GIT** 
-* **Network**
+* **Networks grid**
 * **Postgres SQL**
 * **Oracle VM** 
 
