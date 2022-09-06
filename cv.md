@@ -48,7 +48,6 @@ because I like internet and everything that came with it in our world.
 Programming Languages:
 * **JavaScript**, **React library** 
 * **Python** 
-* 
 
 I have knowledge of:  
 * **OS Windows 10,11** 
