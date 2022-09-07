@@ -1,1 +1,1 @@
-https://Electricity_Dragon.github.io/rsschool-cv/cv 
+https://Electricity_Dragon.github.io/rsschool-cv/
